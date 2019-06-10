@@ -9,12 +9,18 @@ body {
 header {
     margin: 10px 0 10px 0;
     background: #ebebeb;
-    height: 100px;
+    padding: 35px 0 35px 0;
+}
+header p {
+    margin: 0 auto;
 }
 nav {
-    margin: 10px 0 20px 0;
+    margin: 10px 0 10px 0;
     background: #ebebeb;
-    height: 100px;
+    padding: 35px 0 35px 0;
+}
+nav p {
+    margin: 0 auto;
 }
 .section {
     background: #ebebeb;
@@ -65,33 +71,12 @@ aside {
     padding: 5px 0 0 0;
 }
 footer {
-    margin: 10px 0 10px 0;
+    margin: 10px 0 0 0;
     background: #ebebeb;
-    height: 100px;
     width: 100%;
     clear: both; 
+    padding: 35px 0 35px 0;
 }
-
-
-/*
-
-section {
-    width: 495px;
-    float: right;
+nav p {
+    margin: 0 auto;
 }
-aside {
-    float: right;
-}
-header,nav, section, aside, footer {
-    background: #ebebeb;
-}
-article {
-    color: #ebebeb;
-    background: #777;
-}
-h1, p {
-    color: #ebebeb;
-    background: #777;
-}
-
-*/
